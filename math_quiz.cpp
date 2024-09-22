@@ -55,7 +55,7 @@ int main() {
         {
             cout << "continuing...\n\n";
         }
-        else if  (score ==5) 
+        else if  (score ==10) 
         {
             cout<<"score: "<<score<<endl;
             cout << "Congrats! You have won the game!";
